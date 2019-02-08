@@ -21,13 +21,25 @@ html {
   width: 100%;
 }
 
+body {
+  margin: 0;
+}
 
+.watermelon {
+  font-family: "Rammetto One", cursive;
+  background-color: #e97065;
+}
 
+.starfruit {
+  font-family: "Gravitas One", cursive;
+  background-color: #fbd25e;
+}
 
-  /*  font-family: 'Open Sans', sans-serif;
+.persimmon {
+  font-family: "Comfortaa", cursive;
+  background-color: #e86033;
+}
 
-    font-family: 'Gravitas One', cursive;
-
-    font-family: 'Rammetto One', cursive;
-
-    font-family: 'Comfortaa', cursive; */
+p {
+  font-family: "Open Sans", sans-serif;
+}
